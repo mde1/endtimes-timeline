@@ -6,7 +6,7 @@ import streamlit.components.v1 as components
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title='GDP dashboard',
+    page_title='End Times Timeline',
     page_icon=':earth_americas:',
     layout='wide' # This is an emoji shortcode. Could be a URL too.
 )

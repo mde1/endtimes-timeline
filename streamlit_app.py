@@ -16,6 +16,7 @@ st.set_page_config(
 # Header
 st.header('End Times Timeline - This is a prototype under development', divider='gray')
 st.text("Use the buttons at the lower left of the timeline or click and drag to navigate to specific events. Use the navigation buttons overlayed to view events in chronological order.")
+st.text("This should be viewed from a desktop or tablet screen.")
 ''
 
 ''

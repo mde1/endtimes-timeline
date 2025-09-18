@@ -25,12 +25,13 @@ st.set_page_config(
 
 
 
-st.header('End Times Timeline', divider='gray')
-
+st.header('End Times Timeline - This is a prototype under development', divider='gray')
+st.text("Use the buttons at the lower left of the timeline or click and drag to navigate to specific events. Use the navigation buttons overlayed to view events in chronological order.")
 ''
 
 ''
 ''
 
-components.iframe(src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRd2YZLsZ0HODKikNXVtQjvGtq7DNcFY4vkRKOm_f2tMKRIx5hm49gdxD_NeyYPq_xJVW0zTieKqaaB&font=Default&lang=en&initial_zoom=1&scale_factor=1&width=100%25&height=900",
+components.iframe(src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRd2YZLsZ0HODKikNXVtQjvGtq7DNcFY4vkRKOm_f2tMKRIx5hm49gdxD_NeyYPq_xJVW0zTieKqaaB&font=Default&lang=en&initial_zoom=2&scale_factor=2&width=100%25&height=900",
                   height=1200)
+
